@@ -11,7 +11,7 @@ This project is a back-end application for an e-commerce website. It provides a 
 - [Contributing](#contributing)
 - [Support](#support)
 - [Acknowledgements](#acknowledgements)
-- [Authors](#authors)
+- [Author](#author)
 - [Video Walkthrough](#video-walkthrough)
 
 ## User Story
